@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Shop</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Georgia', serif;
+            background-color: #EEE8AA;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .link {
+            color: #6A5ACD;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>The anime shop is packed with figures, posters, and collectibles. My eyes land on a replica sword—almost indistinguishable from a real blade. The moment I pick it up, I know I have to buy it.</p>
+        <p>With the sword in hand, we’re ready for more fun. Do you <a href="page05.html" class="link">head to the arcade</a> or <a href="page06.html" class="link">call it a day and head home?</a></p>
+    </div>
+</body>
+</html>
